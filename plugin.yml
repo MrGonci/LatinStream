@@ -1,0 +1,4 @@
+name: LatinStream
+version: 1.0.0
+main: ml.mrgonci.latinplay.Main
+authors: ["MrGonci"]
